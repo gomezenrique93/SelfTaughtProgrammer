@@ -1,2 +1,2 @@
-with open("hello.cpp", "r") as file:
+with open("dummyfile.txt", "r") as file:
     print(file.read())
